@@ -1,9 +1,10 @@
-# 📅 C ile Dinamik Takvim Uygulaması
+# 📅 C ile Dinamik Takvim Uygulaması (Konsol Uygulaması)
 
 Bu proje, C programlama diliyle geliştirilmiş bir konsol uygulamasıdır. Kullanıcının girdiği herhangi bir yılın (1910-2090) tüm aylarını doğru gün dizilimiyle listeler.
 
 ## Teknik Arka Plan: Zeller Algoritması
-Projenin kalbinde, belirli bir tarihin haftanın hangi gününe denk geldiğini hesaplayan **Zeller Congruence (Zeller Denkliği)** algoritması yer almaktadır. Bu sayede program, herhangi bir veri tabanına ihtiyaç duymadan matematiksel formüllerle takvimi oluşturur.
+Belirli bir tarihin haftanın hangi gününe denk geldiğini hesaplayan **Zeller Congruence (Zeller Denkliği)** algoritması kullanılmıştır.
+Bu sayede program, herhangi bir veri tabanına ihtiyaç duymadan matematiksel formüllerle takvimi oluşturur.
 
 ## Öne Çıkan Özellikler
 - **Artık Yıl Kontrolü:** Şubat ayının 28 veya 29 gün olma durumunu otomatik hesaplar.
