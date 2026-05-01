@@ -17,7 +17,7 @@ Bu sayede program, herhangi bir veri tabanına ihtiyaç duymadan matematiksel fo
 - **Algoritma:** Zeller Congruence
 - **Görselleştirme:** ANSI Escape Codes (Renkler için) ve ASCII Tablo Tasarımı
 
-## Çalıştırma
+## Nasıl Çlıştırılır?
 1. `.sln` dosyasını Visual Studio ile açın.
 2. `main.c` dosyasını derleyip çalıştırın.
 3. Belirtilen alana istediğiniz yılı girerek o yıla ait takvimi görebilirsizin.
